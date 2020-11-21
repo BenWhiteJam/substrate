@@ -4701,7 +4701,7 @@ dependencies = [
  "ripemd160",
  "rlp",
  "serde",
- "sha3 0.8.2",
+ "sha3 0.9.1",
  "sp-core",
  "sp-io",
  "sp-runtime",
